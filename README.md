@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img rsc="240430-3dp_luminaire-gm.jpg">
 
 <!--
 **NMoroney/NMoroney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
